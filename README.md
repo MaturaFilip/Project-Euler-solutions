@@ -11,3 +11,4 @@ Code solution for Project Euler in Python
 | [3](https://projecteuler.net/problem=3) | Largest Prime Factor       | &check; | [code](python_solutions/p003.py) |
 | [4](https://projecteuler.net/problem=4) | Largest Palindrome Product | &check; | [code](python_solutions/p004.py) |
 | [5](https://projecteuler.net/problem=5) | Smallest Multiple          | &check; | [code](python_solutions/p005.py) |
+| [6](https://projecteuler.net/problem=6) | Sum Square Difference      | &check; | [code](python_solutions/p006.py) |

@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-
+import math
 # Solution to problem 5
 ## Smallest Multiple (Evenly divisible by all of the numbers from 1 to 20)
 
 def main():
+    # brute force solution
     number = 1
     div = 0
 
@@ -19,6 +20,11 @@ def main():
              return number
         else:
              number += 1
+
+        # least common multiples -> faster
+        multiples = range(1, 20+1)
+        # unpacking operator (splat) -> instead of (1,2,3,4,5...) -> *multiples
+        com = math.lcm(*multiples)
             
          
 if __name__ == "__main__":
