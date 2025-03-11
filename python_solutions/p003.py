@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Solution to problem 2
+# Solution to problem 3
 ## Largest Prime Factor for given number
 
 def main():
