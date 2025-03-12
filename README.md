@@ -14,3 +14,4 @@ Code solution for Project Euler in Python
 | [6](https://projecteuler.net/problem=6) | Sum Square Difference       | &check; | [code](python_solutions/p006.py) |
 | [7](https://projecteuler.net/problem=7) | 10 001st Prime              | &check; | [code](python_solutions/p007.py) |
 | [8](https://projecteuler.net/problem=8) | Largest Product in a Series | &check; | [code](python_solutions/p008.py) |
+| [9](https://projecteuler.net/problem=9) | Special Pythagorean Triplet | &check; | [code](python_solutions/p009.py) |
