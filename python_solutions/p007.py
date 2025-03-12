@@ -16,11 +16,7 @@ def main():
             primes.append(number)
         number += 1
 
-    return primes[-1]
-
-    
-
-                  
+    return primes[-1]                
          
 if __name__ == "__main__":
 	print(main())
